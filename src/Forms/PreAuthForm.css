@@ -1,0 +1,18 @@
+
+	.body{
+		/* color: #fff; */
+		/* background: #c5c7ca; */
+        font-family: 'Roboto', sans-serif;
+        height: 100%
+    }
+    body{
+        background: #c5c7ca;
+    }
+    
+    .subtitle {
+		color: #fff;
+		background: #4b5366;		
+		padding: 2px 16px;
+		margin: 15px -25px 10px;
+		border-radius: 3px 3px 0 0;
+    }

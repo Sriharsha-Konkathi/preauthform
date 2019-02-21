@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.5139524f.chunk.css",
-  "main.js": "/static/js/main.f6f52002.chunk.js",
-  "main.js.map": "/static/js/main.f6f52002.chunk.js.map",
-  "static/js/1.b701ff97.chunk.js": "/static/js/1.b701ff97.chunk.js",
-  "static/js/1.b701ff97.chunk.js.map": "/static/js/1.b701ff97.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.5139524f.chunk.css.map": "/static/css/main.5139524f.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.045ab9401bd9747933cda8a383e7289c.js": "/precache-manifest.045ab9401bd9747933cda8a383e7289c.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/preauthform/static/css/main.5139524f.chunk.css",
+  "main.js": "/preauthform/static/js/main.aa79804a.chunk.js",
+  "main.js.map": "/preauthform/static/js/main.aa79804a.chunk.js.map",
+  "static/js/1.b701ff97.chunk.js": "/preauthform/static/js/1.b701ff97.chunk.js",
+  "static/js/1.b701ff97.chunk.js.map": "/preauthform/static/js/1.b701ff97.chunk.js.map",
+  "runtime~main.js": "/preauthform/static/js/runtime~main.7aa4f19d.js",
+  "runtime~main.js.map": "/preauthform/static/js/runtime~main.7aa4f19d.js.map",
+  "static/css/main.5139524f.chunk.css.map": "/preauthform/static/css/main.5139524f.chunk.css.map",
+  "index.html": "/preauthform/index.html",
+  "precache-manifest.d4b95ce31da5502d2b2fc813f815df0b.js": "/preauthform/precache-manifest.d4b95ce31da5502d2b2fc813f815df0b.js",
+  "service-worker.js": "/preauthform/service-worker.js"
 }
