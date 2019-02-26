@@ -183,9 +183,20 @@ const App = ({ values, errors, touched, isSubmitting }) => (
 
 
 
-                <button type="submit" disabled={isSubmitting}>
+                <button type="submit" className="btn btn-primary" data-toggle="modal" data-target="#myModal" disabled={isSubmitting}>
                     Submit
-      </button>
+                </button>
+
+                <div className="modal" id="myModal">
+                    <div className="modal-dialog">
+                            <div className="modal-content">                                          
+                                            <div className="modal-header">
+                                              <h4 className="modal-title">Pre Authrization Form Submitted Successfully</h4>
+                                              <button type="button" className="btn btn-danger" data-dismiss="modal">Close</button>
+                                            </div>   
+                            </div>
+                    </div>
+                </div>
 
             </Form>
         </center>
